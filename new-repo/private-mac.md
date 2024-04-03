@@ -1,6 +1,6 @@
 # Clonar un repositorio privado de GitHub utilizando SSH
 
-Perfecto, si estás utilizando un Mac, los pasos para clonar un repositorio privado de GitHub utilizando SSH son los siguientes:
+En Mac:
 
 1. **Abrir Terminal**:
    - Abre la aplicación Terminal en tu Mac. Puedes encontrarla en la carpeta "Utilidades" dentro de la carpeta "Aplicaciones" o buscarla utilizando Spotlight (cmd + barra espaciadora y luego escribe "Terminal").
